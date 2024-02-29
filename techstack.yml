@@ -2,7 +2,7 @@ repo_name: nvtam2105/draw-a-ui
 report_id: 2aa5bcf7e9f65c559d8f8d7ffd1d50fe
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:53:05+00:00'
+timestamp: '2024-02-29T18:36:24+00:00'
 requested_by: SawyerHood
 provider: github
 branch: main
@@ -53,7 +53,7 @@ tools:
   last_updated_by: Sawyer Hood
   last_updated_on: 2023-11-04 14:30:31.000000000 Z
 - name: Next.js
-  description: 'A small framework for server-rendered universal JavaScript apps '
+  description: A small framework for server-rendered universal JavaScript apps
   website_url: https://nextjs.org/
   version: 14.0.1
   open_source: true
